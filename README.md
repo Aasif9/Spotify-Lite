@@ -1,2 +1,2 @@
 # Spotify-Lite
-A spotify clone using java .
+A spotify clone using java.
